@@ -17,7 +17,7 @@ const AboutUs = () => {
         <div className="h-1 w-8 bg-gray-400 rounded"></div>
       </div>
 
-      <h1 className="text-3xl md:text-4xl font-bold text-center mb-12">
+      <h1 className="text-2xl md:text-4xl font-bold text-center mb-12">
         KNOW MORE <span className="text-[#025CA3]">ABOUT US</span>
       </h1>
 

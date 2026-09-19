@@ -10,7 +10,7 @@ const Footer = () => {
                     {/* Column 1: Logo and Description */}
                     <div>
                         <div className=" mb-4 text-2xl font-bold text-[#FFFFFF]">
-                            Easy <span className="text-[#FFFFFF]">RentAL</span>
+                           Bike Management System
                         </div>
 
                         <p className="text-lg font-medium">
